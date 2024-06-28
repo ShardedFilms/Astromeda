@@ -12,4 +12,4 @@ Export Files to .stl for make 3D printing. (Also Resin mold.)
 
 Every Canon, Storyboard, Alignments are stored in [Miro Borad](https://miro.com/app/board/uXjVNmQDn84=/). 
 
-To Join our Team, You shall prove yourself before you ask [The Developer](https://github.com/ShardedFilms).
+To Join our Team, You need to be skilled and talented and ask [The Developer](https://github.com/ShardedFilms) to apply.
