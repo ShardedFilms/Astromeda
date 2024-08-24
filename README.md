@@ -20,4 +20,4 @@ Phase 1 (Currently): I (Sharded) is soloing on concept models and sterts a singl
 
 Note That! : The Admins that was concepted will represents every Terraria and Calamity Classes (which is Melee, Ranger, Mage ,Summoner and Rouge) 
 
-## [Discord Server](https://discord.com/invite/EkTRfjZsvE) (And we're Hiring.)
+## [Discord Server](https://discord.com/invite/EkTRfjZsvE) (And we're hiring.)
